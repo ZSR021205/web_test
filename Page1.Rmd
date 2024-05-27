@@ -30,6 +30,9 @@ Show section break line:
 ***
 
 List:
+```{r}
+
+```
 
 + 1
   - 1.1
@@ -37,7 +40,7 @@ List:
 + 2
 
 Insert a figure:  
-<img src="figs/picture1.png" alt="drawing" width="400"/>
+<img src="figs/picture1.jpg" alt="drawing" width="400"/>
 
 Insert a table:  
 
