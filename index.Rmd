@@ -7,3 +7,6 @@ output:
 
 Welcome to my website!  
 I am a student at SUSTech, my research is about environmental science.
+
+
+<img src="figs/picture1.jpg" alt="drawing" width="400"/>

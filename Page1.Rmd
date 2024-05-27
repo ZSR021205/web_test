@@ -38,9 +38,9 @@ List:
   - 1.1
   - 1.2
 + 2
-
-Insert a figure:  
+the great zhu!!! 
 <img src="figs/picture1.jpg" alt="drawing" width="400"/>
+
 
 Insert a table:  
 
